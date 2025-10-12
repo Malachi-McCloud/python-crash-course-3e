@@ -1,31 +1,31 @@
-# Python Crash Course - 3rd Edition Run-Through
-
-This repo contains my personal re-run of the Python Crash Course, 3rd Edition
-
-# Structure
-
-Each Chapter will have its own folder containing
--- Code Examples from the book
--- My solutions to exercises
--- Reflections and notes
-
+# Python Crash Course - 3rd Edition Run-Through<br>
+<br>
+This repo contains my personal re-run of the Python Crash Course, 3rd Edition<br>
+<br>
+# Structure<br>
+<br>
+Each Chapter will have its own folder containing<br>
+-- Code Examples from the book<br>
+-- My solutions to exercises<br>
+-- Reflections and notes<br>
+<br>
 # Progress Tracker
-
+<br>
 Chapter / Topic / Status
 ========================
-1 / Hello World / Completed\n
-2 / Variables and Simple Data Types / Completed
-3 / Introducing Lists / In Progress
-4 / Working With Lists / Not Started
-5 / if Statements / Not Started
-6 / Dictionaries / Not Started
-7 / User Input and while Loops / Not Started
-8 / Functions / Not Started
-9 / Classes / Not Started
-10 / File and Exceptions / Not Started
-11 / Testing your code  / Not Started
-12 / A Ship Game / Not Started
-13 / Game Refinement / Not Started
-14 / Data Visualization / Not Started
-15 / Web Applications / Not Started
-16 / Deployment and User Accounts / Not Started
+1 / Hello World / Completed<br>
+2 / Variables and Simple Data Types / Completed<br>
+3 / Introducing Lists / In Progress<br>
+4 / Working With Lists / Not Started<br>
+5 / if Statements / Not Started<br>
+6 / Dictionaries / Not Started<br>
+7 / User Input and while Loops / Not Started<br>
+8 / Functions / Not Started<br>
+9 / Classes / Not Started<br>
+10 / File and Exceptions / Not Started<br>
+11 / Testing your code  / Not Started<br>
+12 / A Ship Game / Not Started<br>
+13 / Game Refinement / Not Started<br>
+14 / Data Visualization / Not Started<br>
+15 / Web Applications / Not Started<br>
+16 / Deployment and User Accounts / Not Started<br>
