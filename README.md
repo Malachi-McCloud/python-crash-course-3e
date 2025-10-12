@@ -13,9 +13,9 @@ Each Chapter will have its own folder containing
 
 Chapter / Topic / Status
 ========================
-1 / Hello World / Not Started
-2 / Variables and Simple Data Types / Not Started
-3 / Introducing Lists / Not Started
+1 / Hello World / Completed\n
+2 / Variables and Simple Data Types / Completed
+3 / Introducing Lists / In Progress
 4 / Working With Lists / Not Started
 5 / if Statements / Not Started
 6 / Dictionaries / Not Started
