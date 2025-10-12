@@ -1,0 +1,12 @@
+# requirements.txt
+# Core packages for Python Crash Course exercises
+# Navigate to the project folder
+#cd ~/path/to/python-crash-course-3e
+
+# Activate the virtual environment
+#source venv/Scripts/activate
+
+# Confirm you're inside the environment
+#which python
+
+matplotlib
