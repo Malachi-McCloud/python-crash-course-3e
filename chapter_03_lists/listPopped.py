@@ -11,3 +11,5 @@ print(motorcycles)
 
 # Print the remove via pop cycle brand
 print(popped_motorcycle)
+
+# Info for later if needed in a list del is for the index remove is for the value
