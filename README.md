@@ -12,7 +12,7 @@ Each Chapter will have its own folder containing<br>
 # Progress Tracker
 <br>
 Chapter / Topic / Status
-========================
+========================<br>
 1 / Hello World / Completed<br>
 2 / Variables and Simple Data Types / Completed<br>
 3 / Introducing Lists / In Progress<br>
