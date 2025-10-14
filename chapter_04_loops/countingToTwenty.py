@@ -18,8 +18,30 @@ for value in range(1, 21):
 # Create the list
 oneToOneMil = []
 
-for value in range(1,1_000_000_000):
-    oneToOneMil.append(value)
+# Incorrect way to do this makes you go step by step
+# for value in range(1,1_000_000_000):
+#     oneToOneMil.append(value)
+
+# Fixed method
+oneToOneMil = list(range(1,1_000_001))
 
 
 print(sum(oneToOneMil))
+print(min(oneToOneMil))
+print(max(oneToOneMil))
+
+# New list between 3 and 30
+threeToThrirty = list(range(3,30,3))
+
+# Loop for each number
+for value in threeToThrirty:
+    # Print each value in the list
+    print(value)
+
+
+# List one through ten for cubed values
+oneThroughTen = list(range(1,10))
+
+
+for value in oneThroughTen:
+    print(value ** 3)
