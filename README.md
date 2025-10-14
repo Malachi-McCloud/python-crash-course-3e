@@ -15,9 +15,9 @@ Chapter / Topic / Status
 ========================<br>
 1 / Hello World / Completed<br>
 2 / Variables and Simple Data Types / Completed<br>
-3 / Introducing Lists / In Progress<br>
-4 / Working With Lists / Not Started<br>
-5 / if Statements / Not Started<br>
+3 / Introducing Lists / Completed<br>
+4 / Loops / Completed<br>
+5 / if Statements / Completed<br>
 6 / Dictionaries / Not Started<br>
 7 / User Input and while Loops / Not Started<br>
 8 / Functions / Not Started<br>
