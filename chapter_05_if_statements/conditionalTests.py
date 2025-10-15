@@ -15,7 +15,7 @@ if car.lower() != "toyota" or "subara" or "honda":
     print("Your car is not made in Japan")
 
 
-cars = ['toyota', 'ford']
+cars = ['toyota', 'ford'] # To use the lower method from above to avoid issues with capitalization we can use lower for all car in cars and create a new list cars_lower
 
 if 'toyota' in cars:
     print("You own a Toyota")
