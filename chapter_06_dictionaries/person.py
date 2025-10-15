@@ -8,6 +8,18 @@ person_01 = {
     'age' : '28',
     'city' : 'Norfolk'
 }
+person_02 = {
+    'firstName' : 'Kaiser',
+    'lastName' : 'Wihelm',
+    'age' : '55',
+    'city' : 'Brandenburg'
+}
+person_03 = {
+    'firstName' : 'John',
+    'lastName' : 'Smith',
+    'age' : '50',
+    'city' : 'Norfolk'
+}
 
 # Print every line
 print(person_01['firstName'])
@@ -30,3 +42,10 @@ print(favorite_numbers[2])
 print(favorite_numbers[3])
 print(favorite_numbers[4])
 print(favorite_numbers[5])
+
+# 6-7 
+# Create persons list
+persons = [person_01, person_02, person_03]
+
+for person in persons:
+    print(person)
