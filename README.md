@@ -18,9 +18,9 @@ Chapter / Topic / Status
 3 / Introducing Lists / Completed<br>
 4 / Loops / Completed<br>
 5 / if Statements / Completed<br>
-6 / Dictionaries / Not Started<br>
-7 / User Input and while Loops / Not Started<br>
-8 / Functions / Not Started<br>
+6 / Dictionaries / Completed<br>
+7 / User Input and while Loops / Completed<br>
+8 / Functions / In Progress<br>
 9 / Classes / Not Started<br>
 10 / File and Exceptions / Not Started<br>
 11 / Testing your code  / Not Started<br>
