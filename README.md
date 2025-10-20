@@ -20,8 +20,8 @@ Chapter / Topic / Status
 5 / if Statements / Completed<br>
 6 / Dictionaries / Completed<br>
 7 / User Input and while Loops / Completed<br>
-8 / Functions / In Progress<br>
-9 / Classes / Not Started<br>
+8 / Functions / Completed - Ran through a lot of it because of the similarity and reuse in 9<br>
+9 / Classes / Completed<br>
 10 / File and Exceptions / Not Started<br>
 11 / Testing your code  / Not Started<br>
 12 / A Ship Game / Not Started<br>
